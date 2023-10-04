@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 # Data Analyst
 
 ## Link to my CV
-<a href="https://octodex.github.com/MateusAMSantos/MateusAMSantos/CV_data_Mateus_Santos.pdf" title="Download" download>Download</a>
+<a href="https://github.com/MateusAMSantos/MateusAMSantos/blob/main/CV_data_Mateus_Santos.pdf" title="Download" download>Download</a>
 
