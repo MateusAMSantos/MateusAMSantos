@@ -48,4 +48,15 @@ Click here to see my CV:
 - Team spirit
 - Hard worker
 
-## 
+## Data Analyst Projects
+
+### 1st project
+
+
+### 2nd project
+
+
+### 3rd project
+
+
+### 4th project
