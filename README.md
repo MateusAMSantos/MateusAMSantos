@@ -52,10 +52,10 @@ Click here to see my CV:
 
 ### [Housing in Paris](https://github.com/MateusAMSantos/Housing-in-Paris)
 
-### 2nd project
+### [SNCF Lost and Found](https://github.com/MateusAMSantos/SNCF)
 
 
-### 3rd project
+### [Top Music Genres by Countries](https://github.com/MateusAMSantos/Music-Genres)
 
 
 ### 4th project
