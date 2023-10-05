@@ -29,3 +29,17 @@ Here are some ideas to get you started:
 
 Click here to see my CV: :point_right: <a href="https://github.com/MateusAMSantos/MateusAMSantos/blob/main/CV_data_Mateus_Santos.pdf" title="Download" download>Link</a>
 
+## Technical Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Soft Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
+
+## 
