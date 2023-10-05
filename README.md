@@ -50,8 +50,7 @@ Click here to see my CV:
 
 ## Data Analyst Projects
 
-### 1st project
-
+### Housing in Paris(https://github.com/MateusAMSantos/Housing-in-Paris)
 
 ### 2nd project
 
