@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ## CV
 
-Click here to see my CV: <a href="https://github.com/MateusAMSantos/MateusAMSantos/blob/main/CV_data_Mateus_Santos.pdf" title="Download" download>Download</a>
+Click here to see my CV: <a href="https://github.com/MateusAMSantos/MateusAMSantos/blob/main/CV_data_Mateus_Santos.pdf" title="Link" download>Download</a>
 
