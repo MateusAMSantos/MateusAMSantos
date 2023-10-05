@@ -33,15 +33,19 @@ Click here to see my CV:
 
 ## Technical Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Python
+- SQL
+- Power BI
+- Tableau
+- Microsoft Office Pack
+- MATLAB
 
 ## Soft Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+- Adaptability
+- Curiosity
+- Autonomous
+- Team spirit
+- Hard worker
 
 ## 
