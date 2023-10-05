@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 # Mateus Santos Data Analyst Portfolio
 
 <br/>Engineering student.<br/>
-Here, you will be able to see some of the projects I personally chose and worked on in order to practice my knowledge in Python, SQL, Power Bi and Tableau.
-Always striving to do better.
+<br/>Always striving to do better.<br/>
+<br/>Here, you will be able to see some of the projects I personally chose and worked on in order to practice my knowledge in Python, SQL, Power Bi and Tableau.<br/>
+
 
 
 ## Link to my CV
